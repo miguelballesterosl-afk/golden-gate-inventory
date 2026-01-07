@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "gold-ring-1",
+      "description": "Elegant gold ring with a solitaire diamond.",
+      "imageUrl": "https://images.unsplash.com/photo-1631982686092-e6561a853187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnb2xkJTIwcmluZ3xlbnwwfHx8fDE3Njc2ODA3MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold ring"
+    },
+    {
+      "id": "silver-watch-1",
+      "description": "Classic silver chronograph watch.",
+      "imageUrl": "https://images.unsplash.com/photo-1596806846645-f79302548117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaWx2ZXIlMjB3YXRjaHxlbnwwfHx8fDE3Njc2ODA3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver watch"
+    },
+    {
+      "id": "diamond-tiara-1",
+      "description": "Exquisite diamond tiara for special occasions.",
+      "imageUrl": "https://images.unsplash.com/photo-1685970735237-c8f8bfc5fab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaWFtb25kJTIwdGlhcmF8ZW58MHx8fHwxNzY3NjgwNzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "diamond tiara"
+    },
+    {
+      "id": "gold-necklace-1",
+      "description": "Delicate gold chain necklace.",
+      "imageUrl": "https://images.unsplash.com/photo-1623321673989-830eff0fd59f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnb2xkJTIwbmVja2xhY2V8ZW58MHx8fHwxNzY3NjIzMDUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold necklace"
+    },
+    {
+      "id": "pearl-earrings-1",
+      "description": "Timeless pearl stud earrings.",
+      "imageUrl": "https://images.unsplash.com/photo-1767210338407-54b9264c326b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZWFybCUyMGVhcnJpbmdzfGVufDB8fHx8MTc2NzU5NDQ5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pearl earrings"
+    },
+    {
+      "id": "platinum-band-1",
+      "description": "Simple and elegant platinum wedding band.",
+      "imageUrl": "https://images.unsplash.com/photo-1708739300121-b5a26a3a5928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwbGF0aW51bSUyMGJhbmR8ZW58MHx8fHwxNzY3NjgwNzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "platinum band"
+    },
+    {
+      "id": "luxury-watch-1",
+      "description": "A luxury watch with a leather strap.",
+      "imageUrl": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsdXh1cnklMjB3YXRjaHxlbnwwfHx8fDE3Njc2NTA3Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury watch"
+    },
+    {
+      "id": "gold-ingot-1",
+      "description": "A shiny gold ingot.",
+      "imageUrl": "https://images.unsplash.com/photo-1628569305943-0172814b348d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnb2xkX2luZ290fGVufDB8fHx8MTY4Mzk4NTUzN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "gold ingot"
+    },
+    {
+      "id": "silver-ingot-1",
+      "description": "A shiny silver ingot.",
+      "imageUrl": "https://images.unsplash.com/photo-1595563979904-79774a108500?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaWx2ZXJfaW5nb3R8ZW58MHx8fHwxNjgzOTg1NTUwfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "silver ingot"
+    }
+  ]
+}
